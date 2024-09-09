@@ -44,4 +44,4 @@ User Interaction
 
 
 Image
-![IK](Screenshot 2024-09-08 191028.png)
+![IK](Screenshot_2024-09-08_191028.png)
