@@ -43,5 +43,4 @@ User Interaction
 * Implemented 3D rendering and camera functionality. The camera controls are mentioned in the User Interaction section. The scene is well lit allowing for clear visibility of surfaces and objects. (There is also a disco ball)
 
 
-Image
 ![IK](ik.png)
